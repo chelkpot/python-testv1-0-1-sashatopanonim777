@@ -7,11 +7,10 @@ def solve():
     x = int(input("первое число: "))
     y = int(input("второе число: ")) 
     sum = x+y 
-    print(sum)
+    print("Сумма:",sum)
 
 
 
 # Код ниже не трогать! он нужен для тестов
 if __name__ == "__main__":
     solve()
-    
